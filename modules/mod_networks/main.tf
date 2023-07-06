@@ -18,10 +18,10 @@ resource "openstack_networking_subnet_v2" "vm_subnet" {
   cidr            = ""
   ip_version      = 4
   enable_dhcp = true
-  gateway_ip      = ""
+  gateway_ip      = "10.0.0.1"
   allocation_pool {
-    start = ""
-    end   = ""
+    start = "10.0.0.10"
+    end   = "10.0.0.20"
   }
   
 }
