@@ -1,1 +1,4 @@
 Dossier comprenant l'ensemble de notre code terraform
+ - main.tf : regroupe l'ensemble de nos appels aux différents module pour la création de notre infrastructure.
+ - provider.tf : définis le provider qui doit être utilisé pour le déploiement dans notre cas openstack.
+ - terraform.tfvars : regroupe les variables de connexion ssh à la machine hôte.
