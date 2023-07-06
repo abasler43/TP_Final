@@ -1,0 +1,3 @@
+Dossier mod_deploy : 
+- fichier main.tf qui définit les actions à mené pour le déploiement d'openstack sur une machine distante
+- fichier script.sh 
