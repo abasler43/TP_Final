@@ -1,0 +1,2 @@
+Dossier mod_networks : 
+fichier main.tf création du network que l'on souhaite associé à notre instance, on y définit un pool d'adresse pour notre réseau ainsi qu'une gateway
