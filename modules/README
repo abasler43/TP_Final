@@ -1,0 +1,8 @@
+Dossier Modules : le dossier modules va définir l'ensemble des ressource nécessaire pour le déploiement de notre infrastructure.
+- Mod_computes : dossier regroupant 
+- Mod_deploys : 
+- Mod_flavors : 
+- Mod_images : 
+- Mod_keypair
+- Mod_networks
+- Mod_securitygroups 
