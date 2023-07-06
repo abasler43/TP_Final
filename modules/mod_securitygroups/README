@@ -1,0 +1,2 @@
+Dossier mod_securitygroups : 
+fichier main.tf création d'un groupe de sécurité pour le firewalling on y définis donc les communications que l'on accepte ou non pour ce groupe
