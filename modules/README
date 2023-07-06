@@ -1,8 +1,8 @@
 Dossier Modules : le dossier modules va définir l'ensemble des ressource nécessaire pour le déploiement de notre infrastructure.
-- Mod_computes : dossier regroupant 
-- Mod_deploys : 
-- Mod_flavors : 
-- Mod_images : 
-- Mod_keypair
-- Mod_networks
-- Mod_securitygroups 
+- Mod_computes : dossier regroupant la création d'une instance openstack 
+- Mod_deploys : dossier regroupant le code terraform + script pour le déploiement d'openstack via terraform
+- Mod_flavors : dossier regroupant les gabarit à utilisé pour notre instance 
+- Mod_images : dossier regroupant la création d'image à utiliser pour notre instance
+- Mod_keypair : dossier regroupant la création et utilisation d'une paire de clé ssh pour notre instance
+- Mod_networks : dossier regroupant la création de network
+- Mod_securitygroups : dossier regroupant la création de groupe de sécurité pour établir des règles de firewalling.
