@@ -1,0 +1,2 @@
+Dossier mod_images : 
+fihcier main.tf création de notre image, il faut bien definir le type d'image QCOW2 et indiquer un fichier en .img
