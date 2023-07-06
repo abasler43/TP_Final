@@ -1,0 +1,3 @@
+Dossier mod_compute : 
+- fichier main.tf pour la création de notre instance et l'ajout celle ci au network, groupe de sécurité, flavors, images, keypair.
+- fichier vars.tf qui appel les différentes variables à utilisées 
