@@ -1,3 +1,4 @@
 Dossier mod_deploy : 
 - fichier main.tf qui définit les actions à mené pour le déploiement d'openstack sur une machine distante
-- fichier script.sh 
+- fichier script.sh ce script comprend la configuration du fichier de conf local.conf, nécessaire pour l'instalaltion d'openstack
+
